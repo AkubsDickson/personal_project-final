@@ -10,7 +10,7 @@
 define("SERVERNAME","localhost");
 define("DATABASE","personal_project");
 define("USERNAME","root");
-define("PASSWORD","");
+define("PASSWORD","Nuclearbomb2");
 
 
 ?>
