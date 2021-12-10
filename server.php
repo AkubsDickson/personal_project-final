@@ -7,7 +7,7 @@ $email    = "";
 $errors = array();
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'personal_project');
+$db = mysqli_connect('localhost', 'root', 'Nuclearbomb2.', 'personal_project');
 
 // REGISTER USER
 if (isset($_POST['signUp'])) {

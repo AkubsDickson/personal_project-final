@@ -1,7 +1,7 @@
 <?php
     session_start();
     ob_start();
-    $conn1=mysqli_connect("localhost", "root", "", "personal_project");
+    $conn1=mysqli_connect("localhost", "root", "Nuclearbomb2.", "personal_project");
 
 $query2="";
 

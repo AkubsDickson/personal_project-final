@@ -1,5 +1,5 @@
 <?php
-    $conn1 = new mysqli('localhost', 'root', '', 'personal_project');
+    $conn1 = new mysqli('localhost', 'root', 'Nuclearbomb2.', 'personal_project');
 
     if (isset($_POST['save'])) {
         $uID = $conn1->real_escape_string($_POST['uID']);
