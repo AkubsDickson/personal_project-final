@@ -84,7 +84,7 @@ include ('database_connection.php');
                             ?>
                                 <img src = " images/pexels-photo-9794893.jpeg" alt="">
 
-                    <
+              
                     <?php
                             }
                           ?>
