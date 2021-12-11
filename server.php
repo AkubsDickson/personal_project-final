@@ -59,7 +59,7 @@ if (isset($_POST['signUp'])) {
         mysqli_query($db, $query);
         $_SESSION['username'] = $username;
         $_SESSION['success'] = " ";
-        header('location: Home.php');
+        header('location: index.php');
     }
 }
 

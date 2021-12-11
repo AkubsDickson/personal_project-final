@@ -43,7 +43,7 @@ if(!$query){
 }
 else{
     echo '<script> alert("your data entered into our database");</script>';
-    header("location: Home.php");
+    header("location: index.php");
     
 
 }
