@@ -89,7 +89,7 @@ include ('database_connection.php');
                             }
                           ?>
                                     
-                                    'gzt8QXTThW3y'.
+                                
 
             <img src = " images/man2.jfif" alt="">
             <img src = " images/man3.jfif" alt="">
