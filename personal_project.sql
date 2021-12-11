@@ -6,7 +6,8 @@
 -- Generation Time: Dec 10, 2021 at 11:45 PM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 7.3.27
-
+CREATE DATABASE personal_project;
+USE personal_project;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
