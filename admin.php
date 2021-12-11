@@ -67,8 +67,6 @@ session_start();
           <td colspan="2" align="center">
             <br><input type="submit" name="submit" value="ADD" class="btn btn-success" style="margin-right:   75px; width: 150px;">
             
-          </td>
-        
       </form>
 
 

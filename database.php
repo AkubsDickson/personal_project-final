@@ -2,7 +2,7 @@
 
 <?php
 
-$conn1=mysqli_connect("localhost", "root", "Nuclearbomb2.", "personal_project");
+$conn1=mysqli_connect("localhost", "root", "gzt8QXTThW3y", "personal_project");
 
 
 $user_check_query = "SELECT * FROM user_register_details WHERE email='$email' LIMIT 1";
